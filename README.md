@@ -7,11 +7,11 @@ The goal of this project is to help the doctors in operation theatres or a steri
 
 Here, We train a CNN based model to recognize the hand gesture. The training data include images that captures the hand gestures of 1,2,3,4,5 and 0. The image is resized without much loss of information and used for training a CNN based model. We use Python Flask to provide an interactive platform for out model.
 
-#Team Leader: POOJA S
+# Team Leader: POOJA S
 
-#Team Member 1: PRIYANGATHIRISHA L
+# Team Member 1: PRIYANGATHIRISHA L
 
-3Team Member 2: VANITHA B
+# Team Member 2: VANITHA B
 
-#Team Member 3: SOWJANYA S
+# Team Member 3: SOWJANYA S
 
